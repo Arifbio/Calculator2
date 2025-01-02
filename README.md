@@ -1,3 +1,3 @@
 # This is my Calculator 2
 
-in this project i make a second calculator, in this project i minimize javaScript but make the same function for the first calculator .
+in this project i make a calculator, this is my first project using Html , CSS and JS.
